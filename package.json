@@ -1,0 +1,17 @@
+{
+  "name": "jsQuestion",
+  "version": "0.0.0",
+  "description": "summing method",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jonathan phillips",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^0.4.5"
+  },
+  "dependencies": {
+    "express": "^4.10.2"
+  }
+}
